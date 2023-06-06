@@ -1,0 +1,79 @@
+{
+    "type": "data",
+    "nodes": [
+        {
+            "type": "skip"
+        },
+        {
+            "type": "data",
+            "data": [
+                {
+                    "articles": 1,
+                    "pages": 17,
+                    "tags": 18
+                },
+                [
+                    2
+                ],
+                {
+                    "slug": 3,
+                    "title": 4,
+                    "description": 5,
+                    "body": 6,
+                    "tagList": 7,
+                    "createdAt": 10,
+                    "updatedAt": 10,
+                    "favorited": 11,
+                    "favoritesCount": 12,
+                    "author": 13
+                },
+                "Welcome-to-RealWorld-project-1",
+                "Welcome to RealWorld project",
+                "Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+                "See how the exact same Medium.com clone (called Conduit) is built using different frontends and backends. Yes, you can mix and match them, because they all adhere to the same API spec",
+                [
+                    8,
+                    9
+                ],
+                "welcome",
+                "introduction",
+                "2021-11-24T12:11:07.557Z",
+                false,
+                3157,
+                {
+                    "username": 14,
+                    "bio": 15,
+                    "image": 16,
+                    "following": 11
+                },
+                "Gerome",
+                "Hello followers",
+                "https:\u002F\u002Fapi.realworld.io\u002Fimages\u002Fdemo-avatar.png",
+                1,
+                [
+                    19,
+                    8,
+                    9,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ],
+                "implementations",
+                "codebaseShow",
+                "ipsum",
+                "qui",
+                "et",
+                "cupiditate",
+                "quia",
+                "deserunt"
+            ],
+            "uses": {
+                "url": 1
+            }
+        }
+    ]
+}

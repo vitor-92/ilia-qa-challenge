@@ -1,0 +1,6 @@
+{
+    "name": "vitor",
+    "email": "vitor@striketi.com.br",
+    "validPassword": "123",
+    "invalidPassword": "notPass"
+}
